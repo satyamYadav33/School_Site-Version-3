@@ -1,0 +1,8 @@
+{
+  "name": "SGN International School",
+  "description": "A modern, professional school management and informational portal featuring AI-powered school assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
